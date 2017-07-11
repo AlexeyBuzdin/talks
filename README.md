@@ -11,6 +11,7 @@ Alexey is a passionate developer and trainer that loves to engage people into co
 - [Writing a Plugin for IntelliJ](intellij-plugin/README.md) 
 - [Deep Dive into JUnit and Mockito](deep-junit/README.md)
 - [Marvel of Annotation Processing](apt/README.md) 
+- [Deep Dive into Cucumber-JVM](deep-cucumber/README.md)
 
 ## Android
 - [Writing a Plugin for IntelliJ](intellij-plugin/README.md) 
@@ -19,3 +20,7 @@ Alexey is a passionate developer and trainer that loves to engage people into co
 
 ## Mobile
 - [Easy and Fast Crossplatform Apps in Fuse](fuse-intro/README.md)
+
+## Testing
+- [Deep Dive into Cucumber-JVM](deep-cucumber/README.md)
+- [Deep Dive into JUnit and Mockito](deep-junit/README.md)
