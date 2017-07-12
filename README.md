@@ -5,6 +5,13 @@ Compilation of my talks for conferences
 
 ![avatar](https://gravatar.com/avatar/12d6ff93ca25d366161efccadd81bbb2?s=200)
 
+- http://lanyrd.com/profile/alexeybuzdin/
+- https://twitter.com/AlexeyBuzdin
+- https://www.linkedin.com/in/alexeybuzdin
+- https://speakerdeck.com/larchaon
+- https://github.com/AlexeyBuzdin/
+- https://www.youtube.com/playlist?list=FLo0E6iZ96NTGMvVm2Vs5IOA
+
 ```
 Alexey is a passionate developer and trainer that loves to engage people into conversations about IT and tech. He is an organizer of Google Developers Group Riga (http://GDGRiga.lv), Java User Group Latvia (http://JUG.lv), Mobile Developers Latvia, annual Riga Dev Day conference (http://rigadevday.lv/) and a frequent speaker at international conferences.
 ```
