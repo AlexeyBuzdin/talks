@@ -30,6 +30,9 @@ Alexey is a passionate developer and trainer that loves to engage people into co
 ## Mobile
 - [Easy and Fast Crossplatform Apps in Fuse](fuse-intro/README.md)
 
+## Google
+- [Make you Gadget Talk: Google Assistant](google-assistant/README.md)
+
 ## Testing
 - [Deep Dive into Cucumber-JVM](deep-cucumber/README.md)
 - [Deep Dive into JUnit and Mockito](deep-junit/README.md)
